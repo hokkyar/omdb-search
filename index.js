@@ -1,4 +1,4 @@
-const API_KEY = 'http://www.omdbapi.com/?apikey=14495380&'
+const API_KEY = 'https://www.omdbapi.com/?apikey=14495380&'
 
 // clicked button
 $('.search-btn').on('click', () => {
